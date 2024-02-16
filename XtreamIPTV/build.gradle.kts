@@ -2,7 +2,7 @@
 version = 3
 
 cloudstream {
-    language = "universal"
+    language = "en"
     // All of these properties are optional, you can safely remove them
 
     description = "Xtream IPTV Live categories, use \"Clone site\" feature and add settings as url,user,pass to pass server details."
