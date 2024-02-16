@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/KingLucius/cs-extensions/master/XtreamIPTV/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KingLucius/cs-extensions",
+        "fileSize": 12846,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KingLucius"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "XtreamIPTV",
+        "description": "Xtream IPTV Live categories, use \"Clone site\" feature and add settings as url,user,pass to pass server details.",
+        "url": "https://raw.githubusercontent.com/KingLucius/cs-extensions/builds/XtreamIPTV.cs3",
+        "name": "XtreamIPTV"
+    }
+]
